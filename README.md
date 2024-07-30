@@ -48,12 +48,7 @@ O primeiro teste foi pedir à IA que gerasse uma base de estudos para o fundamen
 
 
 <div align="center">
-  <img src="outputs/02.png" alt="Prompt for AI pros and cons" width="600"/>
-</div>
-
-
-<div align="center">
-  <img src="outputs/03.png" alt="Prompt for places with fewer crowds" width="600"/>
+  <img src="output/prompt-for-responses.png" alt="Prompt AI for text" width="600"/>
 </div>
 
 
@@ -61,19 +56,15 @@ Uma funcionalidade integrada no Copilot é a possibilidade de geração de image
 
 
 <div align="center">
-  <img src="outputs/04.png" alt="Prompt for an image" width="400"/>
-</div>
-
-
-<div align="center">
-  <img src="readmeFiles/01.jpeg" alt="Man focused working in his personal office" width="400"/>
+  <img src="output/prompt-for-image-generation.png" alt="Prompt for an image" width="400"/>
 </div>
 
 
 Uma outra capacidade das IA's generativas é a de criar código de maneira automatizada, auxiliando o desenvolvimento de software. Foi requisitado a criação de exploit funcional para a exploração de uma vulnerabilidade de stack overflow utilizando a linguagem de programação Python e o módulo pwntools.
 
+
 <div align="center">
-  <img src="outputs/05.png" alt="Dijkstra's code in C" width="600"/>
+  <img src="output/prompt-for-code.png" alt="Exploit code in Python" width="600"/>
 </div>
 
 
